@@ -14,4 +14,4 @@ To enable multidimensional analysis using OLAP operations such as roll-up, drill
 To identify patterns and trends in network behavior over time
 To implement data mining techniques (anomaly detection) for detecting suspicious or malicious activities in the network
 
-![alt text](image.png)
+![alt text](demo/image.png)
