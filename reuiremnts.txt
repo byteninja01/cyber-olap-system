@@ -1,0 +1,8 @@
+pandas
+numpy
+duckdb
+scikit-learn
+statsmodels
+mlxtend
+plotly
+streamlit
