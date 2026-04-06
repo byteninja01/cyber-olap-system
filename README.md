@@ -13,3 +13,5 @@ To apply ETL (Extract, Transform, Load) techniques for transforming raw data int
 To enable multidimensional analysis using OLAP operations such as roll-up, drill-down, slice, and dice
 To identify patterns and trends in network behavior over time
 To implement data mining techniques (anomaly detection) for detecting suspicious or malicious activities in the network
+
+![alt text](image.png)
